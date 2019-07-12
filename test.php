@@ -1,8 +1,3 @@
 <?php 
-
-echo 'test';
-echo 'dsdsdsdsdsd sds dsds';
-
-
-echo 'NUrsultan';
+echo 'Rabota s git';
 ?>
